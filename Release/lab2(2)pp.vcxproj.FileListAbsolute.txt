@@ -1,0 +1,7 @@
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\lab2(2)pp.vcxproj.AssemblyReference.cache
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\lab2(2)pp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\kursova.MyForm.resources
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\kursova.MyForm1.resources
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\lab2(2)pp.vcxproj.GenerateResource.cache
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\fonimage.jpg
+C:\Users\amsmv\Documents\Visual Studio 2022\My Exported Templates\kurs\x64\Release\kursova.exe
